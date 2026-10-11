@@ -92,4 +92,3 @@ These are **areas to investigate**, not proven interventions or guaranteed outco
 
 The documented analysis identifies Hell's Kitchen as the leading store by revenue, Coffee as the leading category, Sustainably Grown Organic Lg as the highest-revenue product, and 10 AM as the peak revenue hour. Monday leads in revenue while Friday leads in transaction volume.
 
-The most useful next step is to validate the transaction-count definition and recalculate the headline figures from the source data. Once verified, the findings can guide further investigation into store-level demand, product mix, and operational planning.
